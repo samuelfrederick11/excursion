@@ -1,0 +1,36 @@
+html {
+background-color: black;
+font-family: helvetica, sans-serif;
+}
+header {
+  margin: 40px;
+  font-weight: bold;
+  text-align: center;
+  font-size: 55px;
+  color: white;
+}
+a {color:aqua;
+}
+ .link1 {
+   font-size: 22px;
+   margin: 10px;
+   text-align: center;
+}
+h1{ text-align: center; font-size: 55px; color: white;}
+h2 { text-align: center; font-size: 25px; color: gray;}
+#image1 { text-align: center; margin: 15px;}
+#image2 { text-align: center; margin: 15px;}
+.link2 {
+  font-size: 22px;
+  margin: 10px;
+  text-align: center;
+}
+#video1 {
+  text-align: center;
+}
+footer {
+  text-align: right;
+  margin: 15px;
+  font-size: 25px;
+  color: gray;
+}
